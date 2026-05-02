@@ -55,7 +55,7 @@ npm run dev
 npm run build
 ```
 
-Open http://localhost:5173
+Open [https://slackcloneai.vercel.app]
 
 ## Usage Tips
 - Click channels in the sidebar to switch views
